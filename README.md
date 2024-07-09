@@ -1,0 +1,1 @@
+Developed a temperature-controlled DC fan system that automatically adjusts fan speed based on ambient temperature using a temperature sensor and microcontroller. Designed an efficient circuit to integrate all components. Conducted thorough testing to ensure accurate temperature response and optimized system performance.
